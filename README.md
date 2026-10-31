@@ -7,3 +7,4 @@ A mini Python project for IT3180 - Introduction to Software Engineering.
 
 ## Run
 python main.py
+Python 3.10 or newer is required.
