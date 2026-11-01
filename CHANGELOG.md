@@ -12,7 +12,9 @@ Tài liệu này ghi nhận những thay đổi quan trọng của AIMS-mini qua
 - Bổ sung phương thức `sort_by_cost()` để sắp xếp DVD theo giá.
 - Bổ sung chức năng `search_by_category()` để tìm kiếm DVD theo danh mục.
 - Bổ sung unit test cho chức năng sắp xếp và tìm kiếm theo danh mục.
-
+### Fixed
+- Sửa lỗi tìm kiếm DVD theo tên không hỗ trợ bỏ dấu tiếng Việt (Issue #23).
+- Chuẩn hóa Unicode để tìm kiếm không phân biệt dấu và chữ hoa/thường.
 ## [1.0.0] - 2026-11-01
 
 ### Added
