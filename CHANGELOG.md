@@ -1,10 +1,15 @@
 # Changelog
-
-Tài liệu này ghi nhận những thay đổi quan trọng của AIMS-mini qua các phiên bản.
-
 ## [Unreleased]
 
+## [1.0.1] - 2026-11-01
+
+### Fixed
+- Sửa lỗi tìm kiếm DVD theo tên không hỗ trợ bỏ dấu tiếng Việt (Issue #23).
+- Chuẩn hóa Unicode để tìm kiếm không phân biệt dấu và chữ hoa/thường.
+
 ## [1.0.0] - 2026-11-01
+Tài liệu này ghi nhận những thay đổi quan trọng của AIMS-mini qua các phiên bản.
+
 
 ### Added
 - Bổ sung phương thức `Cart.print_cart()` để hiển thị thông tin giỏ hàng.
