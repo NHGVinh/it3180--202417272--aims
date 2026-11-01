@@ -22,3 +22,8 @@ Tài liệu này ghi nhận những thay đổi quan trọng của AIMS-mini qua
 - Sửa lỗi giỏ hàng chấp nhận DVD thứ 21 mặc dù giới hạn là 20 (Issue #11).
 - Sửa công thức tính số tiền sau giảm giá.
 - Bổ sung kiểm tra phần trăm giảm giá hợp lệ trong khoảng 0–100.
+
+### Added
+- Bổ sung phương thức `sort_by_title()` để sắp xếp DVD theo tên.
+- Bổ sung phương thức `sort_by_cost()` để sắp xếp DVD theo giá.
+- Bổ sung unit test cho chức năng sắp xếp giỏ hàng.
